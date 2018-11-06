@@ -1,6 +1,7 @@
 # DATA-DASHBOARD V.1.0.0
 
 Este é um projeto realizado no Sprint 2 no bootcamp da Laboratoria.
+
 Projeto hospedado no git pages: https://alyne-martins.github.io/data-dashboard/
 
 ![data_1](https://user-images.githubusercontent.com/39528553/48039898-f72e1280-e15d-11e8-9dae-176e87123c0b.PNG)
